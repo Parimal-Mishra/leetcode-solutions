@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
