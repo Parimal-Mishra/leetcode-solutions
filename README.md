@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0229-majority-element-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
