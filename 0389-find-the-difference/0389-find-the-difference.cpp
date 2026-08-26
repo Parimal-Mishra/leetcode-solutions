@@ -8,8 +8,6 @@ public:
        for(auto c : s) {
         count -= c;
        }
-
        return char(count);
-       return '-1';
     }
 };
