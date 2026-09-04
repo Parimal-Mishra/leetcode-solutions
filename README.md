@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1037-valid-boomerang](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1025-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
