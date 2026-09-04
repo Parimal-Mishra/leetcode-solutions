@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0507-perfect-number](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1025-divisor-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1025-divisor-game) |
 ## String Matching
 |  |
 | ------- |
@@ -165,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
