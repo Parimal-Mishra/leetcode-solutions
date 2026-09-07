@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0830-positions-of-large-groups](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
+| [0940-distinct-subsequences-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1768-merge-strings-alternately](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Database
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0940-distinct-subsequences-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1025-divisor-game) |
 ## String Matching
 |  |
