@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0001-two-sum) |
+| [0090-subsets-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0090-subsets-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Greedy
 |  |
 | ------- |
