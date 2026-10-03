@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Database
 |  |
 | ------- |
