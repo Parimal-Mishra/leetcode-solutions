@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3903-smallest-stable-index-i](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Brainteaser
 |  |
