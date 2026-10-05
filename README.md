@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Greedy
