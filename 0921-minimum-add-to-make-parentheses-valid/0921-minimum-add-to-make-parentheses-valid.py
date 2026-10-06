@@ -1,0 +1,13 @@
+class Solution:
+    def minAddToMakeValid(self, s: str) -> int:
+        op=0
+        cl=0
+        for i in s:
+            if i=="(":
+                op+=1
+            elif i ==")":
+                if op>0:
+                    op-=1
+                else:
+                    cl+=1
+        return op+cl
