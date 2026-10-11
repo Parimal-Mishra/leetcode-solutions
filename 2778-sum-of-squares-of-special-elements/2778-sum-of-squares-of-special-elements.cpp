@@ -3,9 +3,9 @@ public:
     int sumOfSquares(vector<int>& nums) {
         int sum=0;
         int n=nums.size();
-        for(int x=1;x<=n;x++){
-            if (n%x==0){
-                sum+=nums[x-1]*nums[x-1];
+        for(int x=0;x<n;x++){
+            if (n%(x+1) == 0){
+                sum=sum+nums[x]*nums[x];
             }
         }
         return sum;
