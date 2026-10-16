@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1037-valid-boomerang](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Database
 |  |
