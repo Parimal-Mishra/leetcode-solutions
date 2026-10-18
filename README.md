@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0507-perfect-number](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
