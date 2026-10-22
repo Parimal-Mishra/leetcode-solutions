@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0894-all-possible-full-binary-trees](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0894-all-possible-full-binary-trees](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0940-distinct-subsequences-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1025-divisor-game) |
 ## String Matching
@@ -283,4 +285,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Tree
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
