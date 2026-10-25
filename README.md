@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
