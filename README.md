@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [3794-reverse-string-prefix](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Database
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [3794-reverse-string-prefix](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
