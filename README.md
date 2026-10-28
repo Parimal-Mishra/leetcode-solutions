@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3903-smallest-stable-index-i](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Brainteaser
