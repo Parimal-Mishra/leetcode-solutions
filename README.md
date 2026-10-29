@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0383-ransom-note) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3046-split-the-array](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/3046-split-the-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0383-ransom-note](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0830-positions-of-large-groups](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 | [0856-score-of-parentheses](https://github.com/Parimal-Mishra/leetcode-solutions/tree/master/0856-score-of-parentheses) |
